@@ -11,7 +11,7 @@ const WhatWeDo = () => {
           <div className="absolute w-full h-full bg-gradient-to-r from-blue-400 to-purple-500 -left-4 -top-4 rounded-md"></div>
           {/* Main image */}
           <img
-            src="https://via.placeholder.com/500"
+            src="/images/image1-about.png"
             alt="Team Working"
             className="relative w-full h-auto object-cover rounded-md"
           />
@@ -26,22 +26,22 @@ const WhatWeDo = () => {
             {/* Icon Boxes */}
             <div className="flex flex-col items-center">
               <div className="w-12 h-12 bg-gray-700 rounded-md flex items-center justify-center">
-                <img src="/path-to-icon1.svg" alt="Icon 1" />
+                <img src="" alt="Icon 1" />
               </div>
             </div>
             <div className="flex flex-col items-center">
               <div className="w-12 h-12 bg-gray-700 rounded-md flex items-center justify-center">
-                <img src="/path-to-icon2.svg" alt="Icon 2" />
+                <img src="" alt="Icon 2" />
               </div>
             </div>
             <div className="flex flex-col items-center">
               <div className="w-12 h-12 bg-gray-700 rounded-md flex items-center justify-center">
-                <img src="/path-to-icon3.svg" alt="Icon 3" />
+                <img src="" alt="Icon 3" />
               </div>
             </div>
             <div className="flex flex-col items-center">
               <div className="w-12 h-12 bg-gray-700 rounded-md flex items-center justify-center">
-                <img src="/path-to-icon4.svg" alt="Icon 4" />
+                <img src="/" alt="Icon 4" />
               </div>
             </div>
           </div>

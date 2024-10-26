@@ -27,7 +27,7 @@ const WhatWeOffer = () => {
         <div className="grid grid-cols-2 gap-4">
           <div className="relative group">
             <img
-              src="https://via.placeholder.com/300"
+              src="/images/image-box1.jpg"
               alt="Our Mission"
               className="w-full h-full object-cover"
             />
@@ -38,7 +38,7 @@ const WhatWeOffer = () => {
 
           <div className="relative group">
             <img
-              src="https://via.placeholder.com/300"
+              src="/images/image-box2.jpg"
               alt="Our Vision"
               className="w-full h-full object-cover"
             />
@@ -49,7 +49,7 @@ const WhatWeOffer = () => {
 
           <div className="relative group">
             <img
-              src="https://via.placeholder.com/300"
+              src="/images/image-box3.jpg"
               alt="Our Philosophy"
               className="w-full h-full object-cover"
             />
@@ -60,7 +60,7 @@ const WhatWeOffer = () => {
 
           <div className="relative group">
             <img
-              src="https://via.placeholder.com/300"
+              src="/images/image-box4.jpg"
               alt="Our Strategy"
               className="w-full h-full object-cover"
             />

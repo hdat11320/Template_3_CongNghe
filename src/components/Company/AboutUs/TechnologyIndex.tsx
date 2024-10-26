@@ -40,7 +40,7 @@ const TechnologyIndex = () => {
       {/* Right Side - Image */}
       <div className="w-full md:w-1/2 flex justify-center">
         <Image 
-          src="/images/technology.jpg" // Đường dẫn đến hình ảnh
+          src="/images/image2-about.png" // Đường dẫn đến hình ảnh
           alt="Technology Image"
           width={500} 
           height={300} 

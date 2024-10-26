@@ -13,11 +13,11 @@ const LeadershipTeam = () => {
         </p>
 
         {/* Team Members */}
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mt-12">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mt-12 w-1/6 h-4/6 right-0">
           {/* Member 1 */}
           <div className="relative group flex flex-col items-center text-center">
             <img
-              src="https://via.placeholder.com/150"
+              src="/images/member1.jpg"
               alt="David Ferry"
               className="rounded-lg shadow-lg"
             />
@@ -41,7 +41,7 @@ const LeadershipTeam = () => {
           {/* Member 2 */}
           <div className="relative group flex flex-col items-center text-center">
             <img
-              src="https://via.placeholder.com/150"
+              src="/images/member2.jpg"
               alt="Christina Torres"
               className="rounded-lg shadow-lg"
             />
@@ -65,7 +65,7 @@ const LeadershipTeam = () => {
           {/* Member 3 */}
           <div className="relative group flex flex-col items-center text-center">
             <img
-              src="https://via.placeholder.com/150"
+              src="/images/member3.jpg"
               alt="Amalia Bruno"
               className="rounded-lg shadow-lg"
             />
@@ -89,7 +89,7 @@ const LeadershipTeam = () => {
           {/* Member 4 */}
           <div className="relative group flex flex-col items-center text-center">
             <img
-              src="https://via.placeholder.com/150"
+              src="/images/member4.jpg"
               alt="David Ferry"
               className="rounded-lg shadow-lg"
             />
