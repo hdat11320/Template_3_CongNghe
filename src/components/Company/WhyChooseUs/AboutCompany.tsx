@@ -20,10 +20,10 @@ export default function AboutCompany() {
           {/* Right Section: Text and Info */}
           <div className="lg:w-1/2 w-full">
             {/* About Company Text */}
-            <h5 className="text-purple-700 text-sm font-semibold mb-4">// ABOUT COMPANY</h5>
+            <h5 className="text-purple-700 text-sm font-semibold mb-4"> ABOUT COMPANY</h5>
             <h2 className="text-4xl font-bold mb-6">Your Partner for Software Innovation</h2>
             <p className="text-gray-600 mb-8">
-              Engitech is the partner of choice for many of the world's leading enterprises, SMEs, and technology challengers.
+              Engitech is the partner of choice for many of the worlds leading enterprises, SMEs, and technology challengers.
               We help businesses elevate their value through custom software development, product design, QA, and consultancy services.
             </p>
 

@@ -1,7 +1,7 @@
 "use client"
 import { useState } from 'react';
 import React from 'react';
-import Image from 'next/image'
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 

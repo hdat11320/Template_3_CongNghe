@@ -178,7 +178,7 @@ export default function Home1() {
                         </div>
                       </div>
                       <div className="ttext text-gray-800">
-                        "Patience. Infinite patience. No shortcuts. Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Even if the client is being careless. The best part...always solving problems with great original ideas!"
+                        Patience. Infinite patience. No shortcuts. Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Even if the client is being careless. The best part...always solving problems with great original ideas!    
                       </div>
                     </div>
                   </div>
@@ -193,7 +193,7 @@ export default function Home1() {
                         </div>
                       </div>
                       <div className="ttext text-gray-800">
-                        "Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Patience. Infinite patience. No shortcuts. Even if the client is being careless. The best part...always solving problems with great original ideas!"
+                        Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Patience. Infinite patience. No shortcuts. Even if the client is being careless. The best part...always solving problems with great original ideas!
                       </div>
                     </div>
                   </div>

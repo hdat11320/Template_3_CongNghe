@@ -110,7 +110,7 @@ const ITServices = () => {
                   <span className="text-gray-500">Manager of Company</span>
                 </div>
               </div>
-              <p>"Patience. Infinite patience. No shortcuts. Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Even if the client is being careless."</p>
+              <p>Patience. Infinite patience. No shortcuts. Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Even if the client is being careless.</p>
             </div>
             <div className="testimonial-item">
               <div className="t-head flex items-center justify-center mb-4">
@@ -120,7 +120,7 @@ const ITServices = () => {
                   <span className="text-gray-500">Client of Company</span>
                 </div>
               </div>
-              <p>"Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Patience. Infinite patience. No shortcuts. Even if the client is being careless."</p>
+              <p>Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Patience. Infinite patience. No shortcuts. Even if the client is being careless.</p>
             </div>
           </div>
         </div>

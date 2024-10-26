@@ -35,7 +35,7 @@ const MobileDevelopment: React.FC = () => {
           <div className="row text-center">
             <div className="col-md-12">
               <div className="ot-heading mb-10">
-                <span className="text-gray-500">// business benefits</span>
+                <span className="text-gray-500">business benefits</span>
                 <h2 className="main-heading text-3xl font-bold">Mobile Apps Benefits</h2>
               </div>
             </div>
@@ -153,7 +153,7 @@ const MobileDevelopment: React.FC = () => {
                     <div className="w-full lg:w-1/2 flex items-center">
                         <div className="right-about-v4">
                             <div className="ot-heading">
-                                <span className="text-gray-500">// about company</span>
+                                <span className="text-gray-500"> about company</span>
                                 <h2 className="text-2xl font-bold mb-4">Your Partner for <br />Software Innovation</h2>
                             </div>
                             <div className="mb-5"></div>
@@ -179,7 +179,7 @@ const MobileDevelopment: React.FC = () => {
                 <div className="flex flex-wrap">
                     <div className="w-full md:w-5/12">
                         <div className="ot-heading mb-0">
-                            <span className="text-gray-500">// latest case studies</span>
+                            <span className="text-gray-500"> latest case studies</span>
                             <h2 className="text-2xl font-bold">Introduce Our Projects</h2>
                         </div>
                     </div>
@@ -251,7 +251,7 @@ const MobileDevelopment: React.FC = () => {
                 <div className="row">
                     <div className="col-md-12 text-center">
                         <div className="ot-heading">
-                            <span>// BUSINESS INDUSTRIES</span>
+                            <span> BUSINESS INDUSTRIES</span>
                             <h2 className="main-heading">Business Industries <br />What We Serve</h2>
                         </div>
                         <div className="space-10"></div>

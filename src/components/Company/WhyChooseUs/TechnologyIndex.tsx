@@ -6,7 +6,7 @@ export default function TechnologyIndex() {
   return (
     <div className="relative bg-cover bg-center py-24" style={{ backgroundImage: 'url(/images/background/bg-tech-home1.jpg)' }}>
       <div className="container mx-auto text-center text-white">
-        <h6 className="text-white">// TECHNOLOGY INDEX</h6>
+        <h6 className="text-white">TECHNOLOGY INDEX</h6>
         <h2 className="text-4xl font-bold mb-2">We Deliver Solution with</h2>
         <h3 className="text-2xl mb-8 text-white">the Goal of Trusting Relationships</h3>
         

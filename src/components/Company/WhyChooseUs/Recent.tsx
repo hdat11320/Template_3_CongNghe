@@ -7,7 +7,7 @@ export default function RecentNews() {
       <div className="container mx-auto text-center">
         <div className="flex justify-between items-center mb-6">
           <div>
-            <h5 className="text-purple-800 font-bold mb-2">// LATEST CASE STUDIES</h5>
+            <h5 className="text-purple-800 font-bold mb-2"> LATEST CASE STUDIES</h5>
             <h3 className="text-2xl">Read Our Latest News</h3>
           </div>
           <button className="mb-6 px-4 py-2 bg-indigo-600 text-white rounded hover:bg-purple-600">
